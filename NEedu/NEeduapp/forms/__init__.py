@@ -1,0 +1,2 @@
+from NEeduapp.forms.registration_form import RegistrationForm
+from NEeduapp.forms.login_form import LoginForm
